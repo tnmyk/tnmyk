@@ -4,5 +4,4 @@
 [discord](https://discordapp.com/users/757670601442721793)
 <br/>
 [linkedIn](https://www.linkedin.com/in/tanmayk5/)
-<br/>
-[instagram](https://www.instagram.com/6tanmay/)
+
