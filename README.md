@@ -1,6 +1,4 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnmyk&label=Profile%20views&color=0e75b6&style=flat" alt="tnmyk" /> </p> -->
-
-[website](https://tnmy.vercel.app/)
+[website](https://tanmay.sh/)
 <br/>
 [twitter](https://twitter.com/0xtanmay)
 <br/>
